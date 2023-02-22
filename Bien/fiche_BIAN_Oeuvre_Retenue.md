@@ -10,4 +10,4 @@ https://youtu.be/nPgtnbH7UHo
  
 # EXO-PERFORMANCE 
 exposition BIAN
-typ d'exposition :temporaire
+Allo
