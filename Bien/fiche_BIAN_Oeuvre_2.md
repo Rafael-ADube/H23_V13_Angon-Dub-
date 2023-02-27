@@ -1,6 +1,8 @@
 # oeuvre retenue
 
   ## expostion BIAN 
+![image][/Bien/media/expobian.png](media/GitHub_selection_fichier_image.png)
+
 
 1. type d'expostion: temporaire
 2. date de visite 3 février 2023
