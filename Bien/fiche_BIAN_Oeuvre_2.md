@@ -20,4 +20,4 @@
 
  ## ce que j'aurais changer dans l'oueuvre
   la chose que j'aurais changer dans l'oueuvre de chen tianzhuo est de mettre un seul écran au lieu de trois puisque par moment l'oueuvre était coupé en trois et on voyais l'espace entre chaque chaque écrant qui formait deux grande ligne noir.
-  ![/media/expo.jpg](media/GitHub_selection_fichier_image.png)
+  ![media/expobian.png](media/GitHub_selection_fichier_image.png)
