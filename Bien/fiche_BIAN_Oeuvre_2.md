@@ -1,7 +1,7 @@
 # oeuvre retenue
 
   ## expostion BIAN 
-![image][/Bien/media/expobian.png](media/GitHub_selection_fichier_image.png)
+[/Bien/media/expobian.png](media/GitHub_selection_fichier_image.png)
 
 
 1. type d'expostion: temporaire
