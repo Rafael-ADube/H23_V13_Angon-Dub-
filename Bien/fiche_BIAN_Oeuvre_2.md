@@ -16,9 +16,9 @@
 ![media/exo-per.jpg](media/GitHub_selection_fichier_image.png)
 ![image](https://user-images.githubusercontent.com/124070431/221681556-75a29aa3-f2a5-4649-8402-a230625a2225.png)
 [media/plan.jpg](media/GitHub_selection_fichier_image.png)
-  l'oeuvre est exposer sur un mur de l'exposition
- les conposants de l'oeuvre trois écran
- il n'est pas vraiment possible d'intéragire avec l'oeuvre puisqu'il s'agit plus d'une vidéo on ne peut que que l'obeser. elle ma fait question sur les chose qu'on voyais dans la video commme pourquoi certain objet son la.
+  l'oeuvre est exposer sur un mur de l'exposition.
+ les conposants de l'oeuvre trois écrans avec du fillage 
+ il n'est pas vraiment possible d'intéragire avec l'oeuvre puisqu'il s'agit plus d'une vidéo on ne peut que que l'obesé. elle ma fait me poser des question sur les chose qu'on voyais dans la video commme pourquoi certain objet son la.
 
  ## ce qui ma plus le plu sur l'oueuvre 
  j'ai vraiment aime le style de l'artiste, l'ambiance un peu magique,mythologique ou religieux.
