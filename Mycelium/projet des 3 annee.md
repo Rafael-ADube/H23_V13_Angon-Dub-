@@ -1,8 +1,8 @@
-# projet des étudient 
+# projet des étudients 
 
 ## Echomarine
 
-## créateur créatrise
+### créateur/créatrise
 
 Florence Lapierre 
 
