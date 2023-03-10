@@ -1,6 +1,6 @@
 # projet des étudients 
 
-## Echomarine
+## 1. Echomarine
 /media/banniere.png
 ### créateur/créatrise
 
@@ -12,3 +12,4 @@ Tracy Gua
 
 Maria Laura Cornel
 
+### instalation du projet dans le studio
