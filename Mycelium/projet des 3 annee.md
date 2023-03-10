@@ -7,7 +7,7 @@
 Florence Lapierre 
 /media/A.png
 Natacha Abadallah
-
+/media/B.png
 Tracy Gua
 
 Maria Laura Cornel
