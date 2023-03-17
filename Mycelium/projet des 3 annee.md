@@ -19,4 +19,14 @@ Maria Laura Cornel
 ### schéma
 
 ### cours du programme qui sont incontournable pour créé ce projet
-1.
+1. ilustration numérique 
+2. audio
+3. modélisation 3D
+
+2. zodie-Gal
+
+
+créateur créatrise 
+abdanor yara
+
+instalation du projet dans le studio
