@@ -20,7 +20,7 @@ Maria Laura Cornel
 
 
 ### schéma
-
+![image du schéma](media/shema.png)
 ### cours du programme qui sont incontournable pour créé ce projet
 1. ilustration numérique 
 2. audio
