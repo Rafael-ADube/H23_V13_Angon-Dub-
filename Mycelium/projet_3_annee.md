@@ -2,6 +2,9 @@
 
 ## 1. Echomarine
 
+![image du schéma](media/shema.png)
+
+
 ### créateur/créatrise
 
 Florence Lapierre 
