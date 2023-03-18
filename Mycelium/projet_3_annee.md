@@ -2,7 +2,7 @@
 
 ## 1. Echomarine
 
-![image du schéma](media/shema.png)
+![image de présentation](media/shema.png)
 
 
 ### créateur/créatrise
