@@ -46,7 +46,7 @@ Loic Delorme
  Dominic Roberts
 ![créateur](media/dom.png)
  Gabriel leblanc
-![créateur](media/loic.png)
+![créateur](media/Gabrielleblanc.png)
  Meryem Berbiche
  ![créateur](media/loic.png)
  Jean-christophe
