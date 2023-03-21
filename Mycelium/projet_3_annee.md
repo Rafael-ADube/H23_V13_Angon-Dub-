@@ -38,8 +38,7 @@ Maria Laura Cornel
 
 
 ## 3.edria
-
-![image de présentation](media/visualisation.png)
+![image de présentation](media/banniereedria.png)
 
 ### créateur/créatrise
 Loic Delorme
