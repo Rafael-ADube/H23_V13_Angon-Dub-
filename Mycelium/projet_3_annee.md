@@ -44,5 +44,13 @@ Maria Laura Cornel
 ### créateur/créatrise
 Loic Delorme
 ![créateur](media/loic.png)
-Dominic Roberts
+ Dominic Roberts
 ![créateur](media/dom.png)
+ Gabriel leblanc
+![créateur](media/loic.png)
+ Meryem Berbiche
+ ![créateur](media/loic.png)
+ Jean-christophe
+ ![créateur](media/loic.png)
+ 
+ 
