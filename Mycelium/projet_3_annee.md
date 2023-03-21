@@ -48,8 +48,8 @@ Loic Delorme
  Gabriel leblanc
 ![créateur](media/Gabrielleblanc.png)
  Meryem Berbiche
- ![créateur](media/loic.png)
+ ![créateur](media/meryemberbiche.png)
  Jean-christophe
- ![créateur](media/loic.png)
+ ![créateur](media/jeanchristophe.png)
  
  
