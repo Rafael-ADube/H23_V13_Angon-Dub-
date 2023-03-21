@@ -51,5 +51,24 @@ Loic Delorme
  ![créateur](media/meryemberbiche.png)
  Jean-christophe
  ![créateur](media/jeanchristophe.png)
- 
- 
+ ### instalation du projet dans le studio
+ ### schéma
+### cours du programme qui sont incontournable pour créé ce projet
+
+## 4.Nexum
+![image de présentation](media/bannièreNexum.png)
+
+### créateur/créatrise
+Sébastien Reilly
+![créateur](media/sebastien_portrait.png)
+sabrina laforest
+![créateur](media/sabrina_portrait.png)
+alexendre daniel
+![créateur](media/alexandre_portrait.png)
+Maximes des laurier
+![créateur](media/maxime.png)
+ ### instalation du projet dans le studio
+ ### schéma
+### cours du programme qui sont incontournable pour créé ce projet
+
+## 4.
