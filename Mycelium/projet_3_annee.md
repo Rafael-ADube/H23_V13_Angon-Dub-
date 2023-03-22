@@ -4,7 +4,7 @@
 
 ![image de présentation](media/banniere.png)
 
-
+### Lien du projetavec la thé
 ### créateur/créatrise
 
 Florence Lapierre 
@@ -71,4 +71,18 @@ Maximes des laurier
  ### schéma
 ### cours du programme qui sont incontournable pour créé ce projet
 
-## 4.
+## 4.lumasol
+![image de présentation](media/banniere_page_projet.jpg)
+
+### créateur/créatrise
+eloise gagne
+![créateur](media/profile_eloise.png)
+skyla stimphil
+![créateur](media/photo_equipe_so.png)
+michael simard
+![créateur](media/photo_equipe_so_3membres.png)
+penelope Morrison
+![créateur](media/photo_equipe_so_4membres.png)
+ ### instalation du projet dans le studio
+ ### schéma
+### cours du programme qui sont incontournable pour créé ce projet
