@@ -4,7 +4,7 @@
 
 ![image de présentation](media/banniere.png)
 
-### Lien du projetavec la thé
+### Lien du projet avec mysélium
 ### créateur/créatrise
 
 Florence Lapierre 
@@ -29,6 +29,7 @@ Maria Laura Cornel
 ## 2.zodie-Gal
 ![image de présentation](media/zodiadiegal-banniere.png)
 
+### Lien du projet avec mysélium
 ### créateur/créatrise 
  abdanor yara
 ![créatrise](media/abdanor_yara_etudiant.png)
@@ -40,6 +41,7 @@ Maria Laura Cornel
 ## 3.edria
 ![image de présentation](media/banniereedria.png)
 
+### Lien du projet avec mysélium
 ### créateur/créatrise
 Loic Delorme
 ![créateur](media/loic.png)
@@ -58,6 +60,7 @@ Loic Delorme
 ## 4.Nexum
 ![image de présentation](media/bannièreNexum.png)
 
+### Lien du projet avec mysélium
 ### créateur/créatrise
 Sébastien Reilly
 ![créateur](media/sebastien_portrait.png)
@@ -74,6 +77,7 @@ Maximes des laurier
 ## 4.lumasol
 ![image de présentation](media/banniere_page_projet.jpg)
 
+### Lien du projet avec mysélium
 ### créateur/créatrise
 eloise gagne
 ![créateur](media/profile_eloise.png)
