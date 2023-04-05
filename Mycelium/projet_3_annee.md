@@ -78,7 +78,7 @@ Sébastien Reilly
 ![créateur](media/sebastien_portrait.png)
 sabrina laforest
 ![créateur](media/sabrina_portrait.png)
-alexendre daniel
+alexendre daniel:chef d'équipe
 ![créateur](media/alexandre_portrait.png)
 Maximes des laurier
 ![créateur](media/maxime.png)
