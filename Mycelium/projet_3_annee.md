@@ -5,7 +5,7 @@
 ![image de présentation](media/banniere.png)
 
 ### Lien du projet avec mysélium:
-sensibiliser les gens au fait que plusieurs animaux marinx son en voit de disparition ou en danger à l'aide de vidéo intéractives
+sensibiliser les gens au fait que plusieurs animaux marin son en voit de disparition ou en danger à l'aide de vidéo intéractives
 ### créateur/créatrise
 
 Florence Lapierre 
@@ -14,7 +14,6 @@ Natacha Abadallah
 ![créatrise](media/natacha.png)
 Tracy Gua
 ![créatrise](media/C.png)
-
 Maria Laura Cornel
 ![créatrise](media/Maria.png)
 ### instalation du projet dans le studio:
@@ -73,24 +72,27 @@ Loic Delorme: l'intération du projet
 ![image de présentation](media/bannièreNexum.png)
 
 ### Lien du projet avec mysélium :
+permet la connexion entre l'humain et son espace tout en plongent dans un univers immersif
 ### créateur/créatrise
-Sébastien Reilly
+Sébastien Reilly: coordonateur géneral
 ![créateur](media/sebastien_portrait.png)
-sabrina laforest
+sabrina laforest: responsable des code QR
 ![créateur](media/sabrina_portrait.png)
 alexendre daniel:chef d'équipe
 ![créateur](media/alexandre_portrait.png)
-Maximes des laurier
+Maximes des laurier:cordonateur technique
 ![créateur](media/maxime.png)
- ### instalation du projet dans le studio
- ### schéma
+ ### instalation du projet dans le studio:
+ photo prise lors de l'exposition qui montre mieux l'environement du studio
+ 
+### schéma
 ### cours du programme qui sont incontournable pour créé ce projet
 
 ## 4.lumasol
 ![image de présentation](media/banniere_page_projet.jpg)
 
 ### Lien du projet avec mysélium:
-l'action de pédaller avec le becycle qui crée de l'énergie pour alimenter une lumière
+montrer l'importance pour l'humains de demeurer en contact avec la nature en raison de l'urgence climatique
 ### créateur/créatrise
 eloise gagne
 ![créateur](media/profile_eloise.png)
