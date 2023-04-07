@@ -31,11 +31,8 @@ photo prise lors de l'exposition qui montre mieux l'environement du studio
 ![image du schéma](media/shema.png)
 (source:https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 ### cours du programme qui sont incontournable pour créé ce projet
-1. ilustration numérique:
-pour faire les dessin
-3. audio:
-4. les sons sonores des animaux lors qu'ils pas a l'écran
-5. modélisation 3D:pour modéliser 
+1.audio 2: permet d'utiliser tout les outils sonore pour 
+
 
 ## 2.zodie-Gal
 ![image de présentation](media/zodiadiegal-banniere.png)
@@ -44,9 +41,14 @@ pour faire les dessin
 ### créateur/créatrise 
  abdanor yara
 ![créatrise](media/abdanor_yara_etudiant.png)
-### instalation du projet dans le studio
-### schéma
-### cours du programme qui sont incontournable pour créé ce projet
+### instalation du projet dans le studio:
+ photos prise avant l'instalation final dans le studio:
+ ![studio](media/photo_zod.jpg)
+ photo prise lors de l'exposition qui montre mieux l'environement du studio
+ ![studio](media/photo_zod_expo.jpg)
+
+ ### schéma:
+### cours du programme qui sont incontournable pour créé ce projet:
 
 
 ## 3.edria
@@ -70,13 +72,13 @@ Loic Delorme: l'intération du projet
  ![créateur](media/meryemberbiche.png)
  Jean-christophe: concepteur sonore du projet
  ![créateur](media/jeanchristophe.png)
- ### instalation du projet dans le studio:
+### instalation du projet dans le studio:
  photos prise avant l'instalation final dans le studio
 photo prise lors de l'exposition qui montre mieux l'environement du studio
  vidéo qui montre l'oeuvre en action
  ### schéma:
  ![image du schéma](media/shema_edria.png)
- 
+ sources:(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 ### cours du programme qui sont incontournable pour créé ce projet
 
 ## 4.Nexum
@@ -100,7 +102,8 @@ photo prise lors de l'exposition qui montre mieux l'environement du studio
  
 ### schéma:
 
-### cours du programme qui sont incontournable pour créé ce projet
+### cours du programme qui sont incontournable pour créé ce projet:
+
 
 ## 4.lumasol
 ![image de présentation](media/banniere_page_projet.jpg)
@@ -122,4 +125,5 @@ photo prise lors de l'exposition qui montre mieux l'environement du studio
  vidéo qui montre l'oeuvre en action
  ### schéma: 
  ![image du schéma](media/shema_lumisol.png)
+ sources:(https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 ### cours du programme qui sont incontournable pour créé ce projet:
