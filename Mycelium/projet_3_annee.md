@@ -52,7 +52,13 @@ pour faire les dessin
 ## 3.edria
 ![image de présentation](media/banniereedria.png)
 
-### Lien du projet avec mysélium :le projet représente la dualité entre la téchnologie et la nature 
+### Lien du projet avec mysélium :
+photos prise avant l'instalation final dans le studio
+![studio](media/photo_edria.jpg)
+![studio](media/photo_edria2.jpg)
+photo prise lors de l'exposition qui montre mieux l'environement du studio
+![studio](media/photo_edria_expo1.jpg)
+ vidéo qui montre l'oeuvre en action
 ### créateur/créatrise
 Loic Delorme: l'intération du projet
 ![créateur](media/loic.png)
@@ -64,8 +70,13 @@ Loic Delorme: l'intération du projet
  ![créateur](media/meryemberbiche.png)
  Jean-christophe: concepteur sonore du projet
  ![créateur](media/jeanchristophe.png)
- ### instalation du projet dans le studio
- ### schéma
+ ### instalation du projet dans le studio:
+ photos prise avant l'instalation final dans le studio
+photo prise lors de l'exposition qui montre mieux l'environement du studio
+ vidéo qui montre l'oeuvre en action
+ ### schéma:
+ ![image du schéma](media/shema_edria.png)
+ 
 ### cours du programme qui sont incontournable pour créé ce projet
 
 ## 4.Nexum
@@ -83,9 +94,12 @@ alexendre daniel:chef d'équipe
 Maximes des laurier:cordonateur technique
 ![créateur](media/maxime.png)
  ### instalation du projet dans le studio:
- photo prise lors de l'exposition qui montre mieux l'environement du studio
+ photos prise avant l'instalation final dans le studio
+photo prise lors de l'exposition qui montre mieux l'environement du studio
+ vidéo qui montre l'oeuvre en action
  
-### schéma
+### schéma:
+
 ### cours du programme qui sont incontournable pour créé ce projet
 
 ## 4.lumasol
@@ -102,6 +116,10 @@ michael simard
 ![créateur](media/photo_equipe_so_3membres.png)
 penelope Morrison
 ![créateur](media/photo_equipe_so_4membres.png)
- ### instalation du projet dans le studio
- ### schéma
-### cours du programme qui sont incontournable pour créé ce projet
+ ### instalation du projet dans le studio:
+ photos prise avant l'instalation final dans le studio
+photo prise lors de l'exposition qui montre mieux l'environement du studio
+ vidéo qui montre l'oeuvre en action
+ ### schéma: 
+ ![image du schéma](media/shema_lumisol.png)
+### cours du programme qui sont incontournable pour créé ce projet:
