@@ -34,8 +34,10 @@ Maria Laura Cornel
 1.audio 2: Permet d'utiliser tout les outils sonore pour réaliser un projet sonore intéractif
 2. programmation intératif: Réalisation d'applications interactives simples a l'aide de la programmation
 3. modéalisation 3D: Effectuer le montage d'animations 3D
-### Resenti général
+### présentation d'une technique ou composante technologique
 
+### Resenti général
+j'ai aimer voir que lorsqu'on intéragie avec la tablette est on clique sur un animaux marin on ne sais pas ou il va apparaite. on n'a vraiment l'imprésion d'etre dans les font marin.
 ## 2.zodie-Gal
 ![image de présentation](media/zodiadiegal-banniere.png)
 
@@ -54,7 +56,13 @@ Maria Laura Cornel
 1.desing graphique:Concevoir le desing de la page-écran.
 2.intéractif ludique:Réalisation d' une expérience ludique intégrant images et échantillons sonores dans laquelle l‘interacteur progresse en accomplissant des actions.
 3. web 2:Créer une interface Web fluide et adaptative.
+
+### présentation d'une technique ou composante technologique
+cliping studio est un application qui permet de faire des illustration de dessin,animation,peinture etc
 ### Resenti général
+j'ai bien aimer qu'il s'agiste d'un jeu (point and click) qui est lié aux signe du zodiaque.
+le seul point négative que je donne a ce projet est que je ne vois pas bien le lien qu'il a avec la thématique mysélium
+
 
 ## 3.edria
 ![image de présentation](media/banniereedria.png)
@@ -89,7 +97,7 @@ Loic Delorme: l'intération du projet
 2. Œuvres et dispositifs multimédias en exposition:Documenter la mise en exposition d’œuvres et de dispositifs multimédias.
 3.Installation multimédia:Réaliser une installation multimédia à grande échelle sur mesure.
 ### Resenti général
-
+J'ai bien aimer que les colones réagiste aux contacts des gens qui ce rapporche avec différent effet lumineux et sonore.
 
 ## 4.Nexum
 ![image de présentation](media/bannièreNexum.png)
@@ -114,9 +122,13 @@ Maximes des laurier:cordonateur technique
 
 ### cours du programme qui sont incontournable pour créé ce projet:
 1.Installation multimédia:Réaliser une installation multimédia à grande échelle sur mesure.
-2.
-3.
+2.Programmation interactive: Réaliser des applications interactives simples à l’aide de la programmation.
+3.Audio 2: Réaliser un projet sonore interactif.
+
+### présentation d'une technique ou composante technologique
+ 
 ### Resenti général
+j'ai bien aimer l'idée de pouvoir intéragir avec l'oeuvre grace aux code QR.
 
 ## 4.lumasol
 ![image de présentation](media/banniere_page_projet.jpg)
@@ -140,7 +152,11 @@ penelope Morrison
  ![image du schéma](media/shema_lumisol.png)
  sources:(https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 ### cours du programme qui sont incontournable pour créé ce projet:
-1.
-2.
-3.
+1.Audio 2: Réaliser un projet sonore interactif.
+2.Installation multimédia:Réaliser une installation multimédia à grande échelle sur mesure.
+3.Traitement audiovisuel:Réaliser un projet audiovisuel interactif personnel sur un dispositif commun.
+
+### présentation d'une technique ou composante technologique
+
 ### Resenti général
+j'ai aimé que l'oeuvre utilise un vélo pour la faire fonctioner.
