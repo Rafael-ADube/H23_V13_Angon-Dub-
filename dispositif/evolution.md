@@ -13,7 +13,7 @@ Photos prise le 12 avril 2023 devant le centre des sciences lors de la visite de
 
 ![image](media/photo_du_dispositif.jpg)
 #
-le dispositif dispose de 10 petite porte intéractive dans les quelle y a des imformations sur l'évolution du corps humain.
+le dispositif dispose de 10 petite porte intéractive dans les quelle y a des informations sur l'évolution du corps humain.
 
 # Description du dispositf
 
