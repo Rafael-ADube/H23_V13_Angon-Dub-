@@ -16,6 +16,7 @@ Photo de l'ensemble de l'effet domino
 ## Nom de l'artiste ou de la firme 
 La frime ingrid ingrid son les créateurs du disposif effet domino
 
-## description du dispositif
-![photo](medias/photo_entrée.jpg)
-![photo](medias/photo_entrée.jpg)
+## Description du dispositif
+![photo](medias/photo_cartel.jpg)
+![photo](medias/photo_cartel2.jpg)
+##
