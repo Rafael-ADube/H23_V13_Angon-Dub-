@@ -11,7 +11,7 @@ Le type d'exposition de effet domino est une exposition temporaire qui est dispo
 ## Titre de l'oeuvre 
 ![photo](medias/photo_domino_dispositf.jpg)
 ## 
-Photo de l'ensemble de l'effet domino 
+Photo de l'ensemble de l'effet domino. 
 
 ## Nom de l'artiste ou de la firme 
 La frime ingrid ingrid son les créateurs du disposif effet domino
@@ -23,12 +23,25 @@ Conception sonore : Myriam Bleau
 Conception technologique et électronique : Productions Version 10
 Design industriel : DIX au carré
 Fabrication Solufab, Rotoplast et Nordesco
-Production : Partenariat du Quartier des spectacles
+Production : Partenariat du Quartier des spectacles.
 
 ## Description du dispositif
 ![photo](medias/photo_cartel.jpg)
 ![photo](medias/photo_cartel2.jpg)
 ##
-le but principal de l'effet domino est d'avoir un lien avec le plublic de le rassembler mais aussi de leurs faire oublier les étempérier de l'hiver. c'est l'un des premier dispositif intéractif extérieur qui est possible de manipuler avec les mains,dans le dispositif effet domino il y a en tout 60 dominos multicolore qui font différent bruit tels: voix,percusion, manbrat,balafon et flute.
+Le but principal de l'effet domino est d'avoir un lien avec le plublic de le rassembler mais aussi de leurs faire oublier les étempérier de l'hiver. c'est l'un des premier dispositif intéractif extérieur qui est possible de manipuler avec les mains,dans le dispositif effet domino il y a en tout 60 dominos multicolore qui font différent bruit tels: voix,percusion, manbrat,balafon et flute.
 
-##
+## Type d'installation
+Effet domino est un installation intéractif qui permet de faire bouger des dominos.
+
+## Fonction du dispositif
+Faire bouger des dominos pour faire du bruit
+## Mise en espace
+## composantes et techniques
+Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule.
+## Expérience vécu
+l'expérience que doivent faire les visiteurs est simplement. il doivent jouer avec les domino pour pouvoir faire du bruit et voir les différente couleurs du dispositif changer. j'ai personellement essayer les trois différent effet domino est je n'ais presque auqu'une différence entre chaque.
+## La chose qui m'a plus 
+La chose qui m'a le plus dans effet domino c'est le choix de couleurs vive son vraiment belle. si vous avez l'intension d'aller voir l'oeuvre aller la voir en soir puisque les dominos son illuminer le soir.
+## Aspect négatif 
+J'ai trouver que le site de l'expostion était plutot petit 
