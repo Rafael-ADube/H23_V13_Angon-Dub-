@@ -30,6 +30,7 @@ Production : Partenariat du Quartier des spectacles.
 ![photo](medias/photo_cartel2.jpg)
 
 [![vidéo Lumasol en fonction, le soir](medias/photo_domino_dispositf.jpg)](https://youtube.com/shorts/Ulz1GeQcgQE?feature=share)
+[![vidéo Lumasol en fonction, le soir](medias/photo_domino_dispositf.jpg)](https://youtube.com/shorts/sMrVYtQY9bM?feature=share)
 ##
 Le but principal de l'effet domino est d'avoir un lien avec le plublic de le rassembler mais aussi de leurs faire oublier les étempérier de l'hiver. c'est l'un des premier dispositif intéractif extérieur qui est possible de manipuler avec les mains,dans le dispositif effet domino il y a en tout 60 dominos multicolore qui font différent bruit tels: voix,percusion, manbrat,balafon et flute.
 
