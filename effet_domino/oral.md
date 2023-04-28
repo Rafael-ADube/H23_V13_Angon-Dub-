@@ -28,6 +28,7 @@ Production : Partenariat du Quartier des spectacles.
 ## Description du dispositif
 ![photo](medias/photo_cartel.jpg)
 ![photo](medias/photo_cartel2.jpg)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quartierdesspectacles.com%2Ffr%2Fblogue%2F771%2Feffet-domino-de-lidee-a-la-creation&psig=AOvVaw0J1LhHmz-_lqBDoX8caP0H&ust=1682780157245000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDj893qzP4CFQAAAAAdAAAAABAO
 
 [![vidéo Lumasol en fonction, le soir](medias/photo_domino_dispositf.jpg)](https://youtube.com/shorts/Ulz1GeQcgQE?feature=share)
 [![vidéo Lumasol en fonction, le soir](medias/photo_domino_dispositf.jpg)](https://youtube.com/shorts/sMrVYtQY9bM?feature=share)
