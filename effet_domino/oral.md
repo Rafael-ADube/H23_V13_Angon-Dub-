@@ -1,6 +1,6 @@
 # Lumino Thérapie
 
-## lieu de mise en exposition
+## Lieu de mise en exposition
 ![photo](medias/photo_entrée.jpg)
 ##
 l'exposition a lieu dans le centre ville de Montréal dans le parc de square phillips dans le quartier des spectacles
