@@ -57,7 +57,7 @@ l'expérience que doivent faire les visiteurs est simplement. il doivent jouer a
 ## La chose qui m'a plus 
 La chose qui m'a le plus dans effet domino c'est le choix de couleurs vive son vraiment belle. si vous avez l'intension d'aller voir l'oeuvre aller la voir en soir puisque les dominos son illuminer le soir.
 ## Aspect négatif 
-J'ai trouver que le site de l'expostion était plutot petit 
+J'ai trouver que le site de l'expostion était plutot petit. l'exposition en moins 10 minute tu a tu vue.
 ## Référence
 https://www.quartierdesspectacles.com/fr/medias/luminotherapie-effet-domino
 https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/75/effet-domino-par-ingrid-ingrid/
