@@ -47,9 +47,21 @@ effet domino, Luminotherapie. (Crédit photo : JALQ Photography. Gracieuseté du
 [![vidéo explication](medias/composant_effet_domino.jpg)](https://youtu.be/K5hbJGUTxYs)
 ## 
 Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule.
+## croquis
+![photo](medias/effet_domino_croquis.jpg)
+(credit ingrid ingrid)
+##
+tout les croquis utiliser par la compagine ingrid ingrid pour créé l'effet domino.
+
 ## Expérience vécu
 l'expérience que doivent faire les visiteurs est simplement. il doivent jouer avec les domino pour pouvoir faire du bruit et voir les différente couleurs du dispositif changer. j'ai personellement essayer les trois différent effet domino est je n'ais presque auqu'une différence entre chaque.
 ## La chose qui m'a plus 
 La chose qui m'a le plus dans effet domino c'est le choix de couleurs vive son vraiment belle. si vous avez l'intension d'aller voir l'oeuvre aller la voir en soir puisque les dominos son illuminer le soir.
 ## Aspect négatif 
 J'ai trouver que le site de l'expostion était plutot petit 
+## Référence
+https://www.quartierdesspectacles.com/fr/medias/luminotherapie-effet-domino
+https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/75/effet-domino-par-ingrid-ingrid/
+https://qdsinternational.com/installations/effet-domino/
+http://ingrid-ingrid.com/fr_effetdomino
+https://montrealsecret.co/luminotherapie/
