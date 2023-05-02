@@ -44,7 +44,8 @@ Faire bouger des dominos pour faire du bruit
 ![photo](medias/mise_en_espace_effet_domino.jpg)
 effet domino, Luminotherapie. (Crédit photo : JALQ Photography. Gracieuseté du Quartier des)
 ## composantes et techniques
-[![viéeo explicatif](http://img.youtube.com/vi/?v=K5hbJGUTxYs/0.jpg)](https://www.youtube.com/watch?v=K5hbJGUTxYs)
+
+[![vidéo explication](medias/composant_effet_domino.jpg)](https://youtu.be/K5hbJGUTxYs)
 Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule.
 ## Expérience vécu
 l'expérience que doivent faire les visiteurs est simplement. il doivent jouer avec les domino pour pouvoir faire du bruit et voir les différente couleurs du dispositif changer. j'ai personellement essayer les trois différent effet domino est je n'ais presque auqu'une différence entre chaque.
