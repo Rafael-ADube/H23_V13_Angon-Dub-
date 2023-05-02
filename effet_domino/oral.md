@@ -41,6 +41,7 @@ Effet domino est un installation intéractif qui permet de faire bouger des domi
 ## Fonction du dispositif
 Faire bouger des dominos pour faire du bruit
 ## Mise en espace
+![photo](medias/mise_en_espace_effet_domino.jpg)
 ## composantes et techniques
 Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule.
 ## Expérience vécu
