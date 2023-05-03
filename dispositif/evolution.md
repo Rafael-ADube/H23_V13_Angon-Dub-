@@ -44,4 +44,4 @@ Ce qui est attendu de la part des visiteurs c'est de trouver les quatre compéte
 # Point aprécier 
 j'ai aimé que c'était un jeu de à choix multipe et qu'il y est du son pour savoir si chaque réponse était bonne ou mauvais.
 # Chose a changé
-La chose que j'ai moins apresier c'est l'emplace choisi. le fait que le dispostif sois coller a un 
+La chose que j'ai moins apresier c'est l'emplace choisi. le fait que le dispostif sois coller a mur faissait qu'il est pas la porter des enfants. 
