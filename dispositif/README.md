@@ -1,2 +1,2 @@
 # 
-Description du dispositif choisie lors de la visite au centre des sciences de Montréal.
+Description d'un dispositif choisi lors de la visite au centre des sciences de Montréal.
