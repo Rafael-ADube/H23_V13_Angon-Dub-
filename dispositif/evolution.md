@@ -25,6 +25,10 @@ le cartel explique en francais et anglais l'évolution des humains aux jeune enf
 Ce dispositif est un dispositif interactif puisqu'il est situé dans le centre des sciences de Montréal un lieu très répandu pour faire apprendre les jeunes s'enfants des choses sur différents types de sciences.
 
 # Fonction du dispositif
+![image](media/photo_porte.jpg)
+![image](media/photo_porte2.jpg)
+![image](media/photo_porte3.jpg)
+![image](media/photo_porte4.jpg)
 Les fonctions du dispositif sont d'être pédagogiques puisqu'il a pour but d'instruire les enfants sur l'évolution. sur chaque porte il y a une partie du corps
 et quand ont soulevé la porte il y a encore plus d'information sur l'évolution de cette partie du corps.
 # Mise en espace
