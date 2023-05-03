@@ -114,12 +114,13 @@ alexendre daniel:chef d'équipe
 Maximes des laurier:cordonateur technique
 ![créateur](media/maxime.png)
  ### instalation du projet dans le studio:
- ### photos prise avant l'instalation final dans le studio
+ ![studio](media/nexus_photo.jpg)
+ ### photos prise avant l'installation final dans le studio
  ### photo prise lors de l'exposition qui montre mieux l'environement du studio
- vidéo qui montre l'oeuvre en action
+
  
 ### schéma:
-
+ ![studio](media/nexus_photo.jpg)
 ### cours du programme qui sont incontournable pour créé ce projet:
 1.Installation multimédia:Réaliser une installation multimédia à grande échelle sur mesure.
 2.Programmation interactive: Réaliser des applications interactives simples à l’aide de la programmation.
@@ -145,6 +146,7 @@ michael simard
 penelope Morrison
 ![créateur](media/photo_equipe_so_4membres.png)
  ### instalation du projet dans le studio:
+ 
  ### photos prise avant l'instalation final dans le studio
 ### photo prise lors de l'exposition qui montre mieux l'environement du studio
  vidéo qui montre l'oeuvre en action
