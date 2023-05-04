@@ -69,12 +69,6 @@ le seul point négative que je donne a ce projet est que je ne vois pas bien le 
 ![image de présentation](media/banniereedria.png)
 
 ### Lien du projet avec mysélium :
-### photos prise avant l'instalation final dans le studio
-![studio](media/photo_edria.jpg)
-![studio](media/photo_edria2.jpg)
-### photo prise lors de l'exposition qui montre mieux l'environement du studio
-![studio](media/photo_edria_expo1.jpg)
- vidéo qui montre l'oeuvre en action
 ### créateur/créatrise
 Loic Delorme: l'intération du projet
 ![créateur](media/loic.png)
@@ -86,10 +80,16 @@ Loic Delorme: l'intération du projet
  ![créateur](media/meryemberbiche.png)
  Jean-christophe: concepteur sonore du projet
  ![créateur](media/jeanchristophe.png)
-### instalation du projet dans le studio:
- ### photos prise avant l'instalation final dans le studio
+
+
+
+### photos prise avant l'instalation final dans le studio
+![studio](media/photo_edria.jpg)
+![studio](media/photo_edria2.jpg)
 ### photo prise lors de l'exposition qui montre mieux l'environement du studio
+![studio](media/photo_edria_expo1.jpg)
  vidéo qui montre l'oeuvre en action
+ 
  ### schéma:
  ![image du schéma](media/shema_edria.png)
  sources:(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
