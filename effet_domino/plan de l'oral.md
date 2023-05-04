@@ -38,7 +38,15 @@
   ## mon expérience
   bien apprécier  
   # Dévellopement Appréciation critique et justification
-  
+  ## Ce qui vous a plus
+  les choix des couleurs les différent type de sons
+   ## aspect que vous ne southait pas retenir
+   l'emplacement
+   # Conclusion 
+   ## Rappel 
+   parler du début
+   ## Ouvertue:
+   faire un lien avec une des oeuvre de Bian
   
   
   
