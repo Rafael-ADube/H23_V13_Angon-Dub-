@@ -17,10 +17,10 @@ Tracy Gua
 Maria Laura Cornel
 ![créatrise](media/Maria.png)
 ### instalation du projet dans le studio:
-### photos prise avant l'instalation final dans le studio
+####  photos prise avant l'instalation final dans le studio
 ![studio](media/eco_marinephoto.jpg)
 ![studio](media/eco_marinephoto2.jpg)
-### photo prise lors de l'exposition qui montre mieux l'environement du studio
+####  photo prise lors de l'exposition qui montre mieux l'environement du studio
 ![studio](media/eco_marine_expo_final1.jpg)
 ![studio](media/photo_eco_final3.png)
 ![studio](media/photo_eco_final5.png)
@@ -41,12 +41,13 @@ j'ai aimer voir que lorsqu'on intéragie avec la tablette est on clique sur un a
 ## 2.zodie-Gal
 ![image de présentation](media/zodiadiegal-banniere.png)
 
-### Lien du projet avec mysélium
+### Lien du projet avec mysélium:
+un jeu dans le quelle il faut aider une jeune fille à renter chez elle
 ### créateur/créatrise 
  abdanor yara
 ![créatrise](media/abdanor_yara_etudiant.png)
 ### instalation du projet dans le studio:
- photos prise avant l'instalation final dans le studio:
+ #### photos prise avant l'instalation final dans le studio:
  ![studio](media/photo_zod.jpg)
  photo prise lors de l'exposition qui montre mieux l'environement du studio
  ![studio](media/photo_zod_expo.jpg)
