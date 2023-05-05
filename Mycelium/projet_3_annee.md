@@ -118,11 +118,11 @@ alexendre daniel:chef d'équipe
 Maximes des laurier:cordonateur technique
 ![créateur](media/maxime.png)
  ### instalation du projet dans le studio:
- ![studio](media/nexus_photo.jpg)
- ### photos prise avant l'installation final dans le studio
- 
- ### photo prise lors de l'exposition qui montre mieux l'environement du studio
-
+ #### photos prise avant l'installation final dans le studio
+  ![studio](media/nexus_photo.jpg)
+ #### photo prise lors de l'exposition qui montre mieux l'environement du studio
+![studio](media/nexus_photo2.jpg)
+ (https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
  
 ### schéma:
  ![studio](media/nexus_photo.jpg)
@@ -165,7 +165,7 @@ penelope Morrison
 3.Traitement audiovisuel:Réaliser un projet audiovisuel interactif personnel sur un dispositif commun.
 
 ### présentation d'une technique ou composante technologique
-
+Visual studio code est un programme qui permet de faire du codage.
 
 ### Resenti général
 j'ai aimé que l'oeuvre utilise un vélo pour la faire fonctioner les Lumières.
