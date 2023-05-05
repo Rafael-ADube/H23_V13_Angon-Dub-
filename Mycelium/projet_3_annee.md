@@ -1,11 +1,11 @@
-# projet des étudiants 
+# projets des étudiants  
 
 ## 1. Echomarine
 
 ![image de présentation](media/banniere.png)
 
 ### Lien du projet avec mysélium:
-sensibiliser les gens au fait que plusieurs animaux marin son en voit de disparition ou en danger à l'aide de vidéo intéractives
+sensibiliser les gens au fait que plusieurs animaux marins son en voit de disparition ou en danger à l'aide de vidéo interactive
 ### créateur/créatrise
 
 Florence Lapierre 
@@ -16,8 +16,8 @@ Tracy Gua
 ![créatrise](media/C.png)
 Maria Laura Cornel
 ![créatrise](media/Maria.png)
-### instalation du projet dans le studio:
-####  photos prise avant l'instalation final dans le studio
+### installation du projet dans le studio:
+####  photos prise avant l'installation final dans le studio
 ![studio](media/eco_marinephoto.jpg)
 ![studio](media/eco_marinephoto2.jpg)
 ####  photo prise lors de l'exposition qui montre mieux l'environement du studio
@@ -35,9 +35,9 @@ Maria Laura Cornel
 2. programmation intératif: Réalisation d'applications interactives simples a l'aide de la programmation
 3. modéalisation 3D: Effectuer le montage d'animations 3D
 ### présentation d'une technique ou composante technologique
-After Effect 2022 est une application qui permet d'animer dest texte ou des images.
+After Effect 2022 est une application qui permet d'animer des textes ou des images.
 ### Resenti général
-j'ai aimer voir que lorsqu'on intéragie avec la tablette est on clique sur un animaux marin on ne sais pas ou il va apparaite. on n'a vraiment l'imprésion d'etre dans les font marin.
+J'ai aimé voir que lorsqu'on interagi avec la tablette est on clique sur un animal marin on ne sait pas ou il va apparaitre. On a vraiment l'impression d'être dans les font marin.
 ## 2.zodie-Gal
 ![image de présentation](media/zodiadiegal-banniere.png)
 
@@ -46,8 +46,8 @@ un jeu dans le quelle il faut aider une jeune fille à renter chez elle
 ### créateur/créatrise 
  abdanor yara
 ![créatrise](media/abdanor_yara_etudiant.png)
-### instalation du projet dans le studio:
- #### photos prise avant l'instalation final dans le studio:
+### installation du projet dans le studio:
+ #### photos prise avant l'installation final dans le studio:
  ![studio](media/photo_zod.jpg)
 #### photo prise lors de l'exposition qui montre mieux l'environement du studio
  ![studio](media/photo_zod_expo.jpg)
@@ -59,17 +59,15 @@ un jeu dans le quelle il faut aider une jeune fille à renter chez elle
 3. web 2:Créer une interface Web fluide et adaptative.
 
 ### présentation d'une technique ou composante technologique
-cliping studio est un application qui permet de faire des illustration de dessin,animation,peinture etc
+cliping studio est une application qui permet de faire des illustration de dessin,animation,peinture etc
 ### Resenti général
-j'ai bien aimer qu'il s'agiste d'un jeu (point and click) qui est lié aux signe du zodiaque.
-le seul point négative que je donne a ce projet est que je ne vois pas bien le lien qu'il a avec la thématique mysélium
-
-
+J'ai bien aimé qu'il s'agisse d'un jeu (point and clic) qui est lié aux signes du zodiaque.
+le seul point négatif que je donne a ce projet est que je ne vois pas bien le lien qu'il a avec la thématique mycélium
 ## 3.edria
 ![image de présentation](media/banniereedria.png)
 
 ### Lien du projet avec mysélium : 
-la dualiter entre la nature et la technologie
+La dualiter entre la nature et la technologie
 ### créateur/créatrise
 Loic Delorme: l'intération du projet
 ![créateur](media/loic.png)
