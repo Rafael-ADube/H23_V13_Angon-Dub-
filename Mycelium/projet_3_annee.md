@@ -24,7 +24,7 @@ Maria Laura Cornel
 ![studio](media/eco_marine_expo_final1.jpg)
 ![studio](media/photo_eco_final3.png)
 ![studio](media/photo_eco_final5.png)
- vidéo qui montre l'oeuvre en action
+
 
 ### schéma
 
@@ -35,7 +35,7 @@ Maria Laura Cornel
 2. programmation intératif: Réalisation d'applications interactives simples a l'aide de la programmation
 3. modéalisation 3D: Effectuer le montage d'animations 3D
 ### présentation d'une technique ou composante technologique
-
+After Effect 2022 est une application qui permet d'animer dest texte ou des images.
 ### Resenti général
 j'ai aimer voir que lorsqu'on intéragie avec la tablette est on clique sur un animaux marin on ne sais pas ou il va apparaite. on n'a vraiment l'imprésion d'etre dans les font marin.
 ## 2.zodie-Gal
@@ -49,7 +49,7 @@ un jeu dans le quelle il faut aider une jeune fille à renter chez elle
 ### instalation du projet dans le studio:
  #### photos prise avant l'instalation final dans le studio:
  ![studio](media/photo_zod.jpg)
- photo prise lors de l'exposition qui montre mieux l'environement du studio
+#### photo prise lors de l'exposition qui montre mieux l'environement du studio
  ![studio](media/photo_zod_expo.jpg)
 
  ### schéma:
@@ -68,7 +68,8 @@ le seul point négative que je donne a ce projet est que je ne vois pas bien le 
 ## 3.edria
 ![image de présentation](media/banniereedria.png)
 
-### Lien du projet avec mysélium :
+### Lien du projet avec mysélium : 
+la dualiter entre la nature et la technologie
 ### créateur/créatrise
 Loic Delorme: l'intération du projet
 ![créateur](media/loic.png)
@@ -88,7 +89,7 @@ Loic Delorme: l'intération du projet
 ![studio](media/photo_edria2.jpg)
 ### photo prise lors de l'exposition qui montre mieux l'environement du studio
 ![studio](media/photo_edria_expo1.jpg)
- vidéo qui montre l'oeuvre en action
+ 
  
  ### schéma:
  ![image du schéma](media/shema_edria.png)
@@ -97,6 +98,8 @@ Loic Delorme: l'intération du projet
 1. audio 1:Réaliser un montage sonore multipiste stéréophonique.
 2. Œuvres et dispositifs multimédias en exposition:Documenter la mise en exposition d’œuvres et de dispositifs multimédias.
 3.Installation multimédia:Réaliser une installation multimédia à grande échelle sur mesure.
+### présentation d'une technique ou composante technologique:
+FL Studio est un logiel qui permet de composer sa prorpe muisique et de faire plusieurs effets sonores.
 ### Resenti général
 J'ai bien aimer que les colones réagiste aux contacts des gens qui ce rapporche avec différent effet lumineux et sonore.
 
@@ -117,6 +120,7 @@ Maximes des laurier:cordonateur technique
  ### instalation du projet dans le studio:
  ![studio](media/nexus_photo.jpg)
  ### photos prise avant l'installation final dans le studio
+ 
  ### photo prise lors de l'exposition qui montre mieux l'environement du studio
 
  
@@ -128,7 +132,7 @@ Maximes des laurier:cordonateur technique
 3.Audio 2: Réaliser un projet sonore interactif.
 
 ### présentation d'une technique ou composante technologique
- 
+ procreate est un logiciel qui permet de faire des dessin et des animmation 3d
 ### Resenti général
 j'ai bien aimer l'idée de pouvoir intéragir avec l'oeuvre grace aux code QR.
 
@@ -147,10 +151,11 @@ michael simard
 penelope Morrison
 ![créateur](media/photo_equipe_so_4membres.png)
  ### instalation du projet dans le studio:
- 
- ### photos prise avant l'instalation final dans le studio
+ ### photos prise avant l'installation final dans le studio
+  ![studio](media/photo_lumisol_vélo1.jpg)
 ### photo prise lors de l'exposition qui montre mieux l'environement du studio
- vidéo qui montre l'oeuvre en action
+ ![studio](media/photo_lumisol_vélo1.jpg)
+ 
  ### schéma: 
  ![image du schéma](media/shema_lumisol.png)
  sources:(https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
@@ -161,5 +166,8 @@ penelope Morrison
 
 ### présentation d'une technique ou composante technologique
 
+
 ### Resenti général
-j'ai aimé que l'oeuvre utilise un vélo pour la faire fonctioner.
+j'ai aimé que l'oeuvre utilise un vélo pour la faire fonctioner les Lumières.
+### référence 
+https://tim-montmorency.com/2023/
