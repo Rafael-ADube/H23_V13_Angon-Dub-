@@ -44,6 +44,7 @@ Faire bouger des dominos pour faire du bruit et ce changer les idée.
 effet domino, Luminotherapie. (Crédit photo : JALQ Photography. Gracieuseté du Quartier des)
 ## composantes et techniques
 [![vidéo explication](medias/composant_effet_domino.jpg)](https://youtu.be/K5hbJGUTxYs)
+(crédit: chaine quartier des spectacles,ingrid ingrid)
 ## 
 Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule. plus une vidéo qui montre tous les composant  à l'intérieurs
 ## croquis
