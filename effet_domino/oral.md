@@ -35,17 +35,17 @@ Production : Partenariat du Quartier des spectacles.
 Le but principal de l'effet domino est d'avoir un lien avec le plublic de le rassembler mais aussi de leurs faire oublier les étempérier de l'hiver. c'est l'un des premier dispositif intéractif extérieur qui est possible de manipuler avec les mains,dans le dispositif effet domino il y a en tout 60 dominos multicolore qui font différent bruit tels: voix,percusion, manbrat,balafon et flute.
 
 ## Type d'installation
-Effet domino est un installation intéractif qui permet de faire bouger des dominos.
+Effet domino est un installation intéractif qui permet de faire bouger des dominos. le but principal est de les faire tomber.
 
 ## Fonction du dispositif
-Faire bouger des dominos pour faire du bruit
+Faire bouger des dominos pour faire du bruit et ce changer les idée.
 ## Mise en espace
 ![photo](medias/mise_en_espace_effet_domino.jpg)
 effet domino, Luminotherapie. (Crédit photo : JALQ Photography. Gracieuseté du Quartier des)
 ## composantes et techniques
 [![vidéo explication](medias/composant_effet_domino.jpg)](https://youtu.be/K5hbJGUTxYs)
 ## 
-Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule.
+Il y a des haut parleur insérer dans le dispositif ainsi que des néon ou empoule. plus une vidéo qui montre tous les composant  à l'intérieurs
 ## croquis
 ![photo](medias/effet_domino_croquis.jpg)
 (credit ingrid ingrid)
