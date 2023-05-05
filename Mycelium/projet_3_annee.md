@@ -16,11 +16,11 @@ Tracy Gua
 ![créatrise](media/C.png)
 Maria Laura Cornel
 ![créatrise](media/Maria.png)
-### installation du projet dans le studio:
+### Installation du projet dans le studio:
 ####  photos prise avant l'installation final dans le studio
 ![studio](media/eco_marinephoto.jpg)
 ![studio](media/eco_marinephoto2.jpg)
-####  photo prise lors de l'exposition qui montre mieux l'environement du studio
+####  Photo prise lors de l'exposition qui montre mieux l'environement du studio
 ![studio](media/eco_marine_expo_final1.jpg)
 ![studio](media/photo_eco_final3.png)
 ![studio](media/photo_eco_final5.png)
@@ -30,11 +30,11 @@ Maria Laura Cornel
 
 ![image du schéma](media/shema.png)
 (source:https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
-### cours du programme qui sont incontournable pour créé ce projet
+### Cours du programme qui sont incontournable pour créé ce projet
 1.audio 2: Permet d'utiliser tout les outils sonore pour réaliser un projet sonore intéractif
 2. programmation intératif: Réalisation d'applications interactives simples a l'aide de la programmation
 3. modéalisation 3D: Effectuer le montage d'animations 3D
-### présentation d'une technique ou composante technologique
+### Présentation d'une technique ou composante technologique
 After Effect 2022 est une application qui permet d'animer des textes ou des images.
 ### Resenti général
 J'ai aimé voir que lorsqu'on interagi avec la tablette est on clique sur un animal marin on ne sait pas ou il va apparaitre. On a vraiment l'impression d'être dans les font marin.
@@ -43,17 +43,18 @@ J'ai aimé voir que lorsqu'on interagi avec la tablette est on clique sur un ani
 
 ### Lien du projet avec mysélium:
 un jeu dans le quelle il faut aider une jeune fille à renter chez elle
-### créateur/créatrise 
+### Créateur/Créatrise 
  abdanor yara
 ![créatrise](media/abdanor_yara_etudiant.png)
-### installation du projet dans le studio:
+### Installation du projet dans le studio:
  #### photos prise avant l'installation final dans le studio:
  ![studio](media/photo_zod.jpg)
 #### photo prise lors de l'exposition qui montre mieux l'environement du studio
  ![studio](media/photo_zod_expo.jpg)
-
- ### schéma:
-### cours du programme qui sont incontournable pour créé ce projet:
+vidéo du projet
+[![vidéo ](media/photo_jeux.png)](https://youtube.com/shorts/gxKn09YKjgg?feature=share)
+ ### Schéma:
+### Cours du programme qui sont incontournable pour créé ce projet:
 1.desing graphique:Concevoir le desing de la page-écran.
 2.intéractif ludique:Réalisation d' une expérience ludique intégrant images et échantillons sonores dans laquelle l‘interacteur progresse en accomplissant des actions.
 3. web 2:Créer une interface Web fluide et adaptative.
@@ -87,7 +88,8 @@ Loic Delorme: l'intération du projet
 ![studio](media/photo_edria2.jpg)
 ### photo prise lors de l'exposition qui montre mieux l'environement du studio
 ![studio](media/photo_edria_expo1.jpg)
- 
+ vidéo du projet
+ [![vidéo ](media/photonexus.jpg)](https://youtube.com/shorts/_pInlO1_3Tg?feature=share)
  
  ### schéma:
  ![image du schéma](media/shema_edria.png)
@@ -153,7 +155,8 @@ penelope Morrison
   ![studio](media/photo_lumisol_vélo1.jpg)
 ### photo prise lors de l'exposition qui montre mieux l'environement du studio
  ![studio](media/photo_lumisol_vélo1.jpg)
- 
+ vidéo du projet
+  [![vidéo ](media/photo_lumisol_vélo1.jpg)](https://youtube.com/shorts/E9NEYnA31lo?feature=share)
  ### schéma: 
  ![image du schéma](media/shema_lumisol.png)
  sources:(https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
